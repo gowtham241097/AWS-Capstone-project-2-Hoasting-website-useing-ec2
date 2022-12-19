@@ -2,7 +2,7 @@
 
 
 # Overview of Steps:
-                  1.Create a ec2 ubuntu instance.
+                  1.Create a ec2 Amazon linux instance.
                   2.1.Create a s3 bucket
 
 # Create a ec2 instance
